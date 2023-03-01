@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Florian, a German developer living loves tech and innovation.
+I’m Florian, a German developer who loves tech and innovation.
 I'm interested in utilizing my analytical and problem-solving skills by designing and implementing decentralized applications (dApps).
 
 #### 👨🏻‍💻 I’m currently working on
