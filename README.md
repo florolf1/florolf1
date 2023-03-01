@@ -3,12 +3,30 @@
 I’m Florian, a German developer who loves tech and innovation.
 I'm interested in utilizing my analytical and problem-solving skills by designing and implementing decentralized applications (dApps).
 
-#### 👨🏻‍💻 I’m currently working on
+### 👨🏻 I’m currently working on
 
 - Blockchain architecture and security practices (Ethereum L1 & L2).
 - Smart Contracts (Solidity, Web3.js, Ethers.js).
 - Full Stack Development (JavaScript, TypeScript, NodeJS, React, MongoDB, Express, etc).
 - Mobile Development (Unity, C#, Augmented Reality, Virtual Reatliy, Swift)
+
+### 🚀 Recent Projects
+
+#### Blockchain Development
+
+- PRISMA - Agnostic Yield Aggregator Platform and Metaverse Bridge
+  - <a href="https://prisma.farm">Landing Page</a>
+  - <a href="https://minter.prisma.farm">NFT Minter</a>
+  - <a href="https://app.prisma.farm">DeFi Plattform</a>
+
+#### Plattform Development
+
+- BIMForge - Platform for the digitization of building data
+  - <a href="https://bim-forge.bimension.de">Plattform</a>
+
+#### Mobile Development
+
+- ARForge - Augmented Reality App for displaying building data on site (access restriced - contact me for more information)
 
 ### 🛠 Things I code with:
 
