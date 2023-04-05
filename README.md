@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there, I’m Florian 👋
 
-I’m Florian, a German developer who loves tech and innovation.
+<!-- [![LinkedIn Badge](https://img.shields.io/badge/Personal%20Website-%20-lightgrey?color=1CA2F1)](https://www.toniwahrstaetter.com) -->
+
+a German developer who loves tech and innovation.
 I'm interested in utilizing my analytical and problem-solving skills by designing and implementing decentralized applications (dApps).
 
-### 👨🏻 I’m currently working on
+---
+
+![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![image](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
+![image](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
+
+## I’m currently working on
 
 - Blockchain architecture and security practices (Ethereum L1 & L2).
 - Smart Contracts (Solidity, Web3.js, Ethers.js).
 - Full Stack Development (JavaScript, TypeScript, NodeJS, React, MongoDB, Express, etc).
 - Mobile Development (Unity, C#, Augmented Reality, Virtual Reatliy, Swift)
 
-### 🚀 Recent Projects
+## 🚀 Recent Projects
 
 #### Blockchain Development
 
@@ -56,12 +64,12 @@ I'm interested in utilizing my analytical and problem-solving skills by designin
 
 </p>
 
-### 🤝🏻 Where to find me
+---
 
-<p><a href="https://github.com/florolf1"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&amp;style=for-the-badge&amp;logo=Github&amp;logoColor=white" style="max-width:100%;"></a> 
-  
-<!--  
-<a href="https://medium.com/@th.guibert" rel="nofollow"><img alt="Medium" src="https://camo.githubusercontent.com/49c80c79c674e543c2c7c2ee7930cc15791f4bd56da17c4b3c91c273349bef8d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d656469756d2d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/medium-%2312100E.svg?&amp;style=for-the-badge&amp;logo=medium&amp;logoColor=white" style="max-width:100%;"></a>
--->
-  
-</p>
+<p><img  src="https://github-readme-stats.vercel.app/api?username=florolf1&show_icons=true&locale=en&theme=graywhite&include_all_commits=true&count_private=true" alt="nerolation" /></p>
+
+<p><img   src="https://github-readme-stats.vercel.app/api/top-langs?username=florolf1&show_icons=true&locale=en&layout=compact&hide=HTML,jupyter%20notebook" alt="nerolation"  /></p>
+
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=florolf1&" alt="nerolation" /></p>
+
+---
