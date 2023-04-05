@@ -7,11 +7,11 @@ I'm interested in utilizing my analytical and problem-solving skills by designin
 
 ---
 
+## I’m currently working on
+
 ![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![image](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
 ![image](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
-
-## I’m currently working on
 
 - Blockchain architecture and security practices (Ethereum L1 & L2).
 - Smart Contracts (Solidity, Web3.js, Ethers.js).
