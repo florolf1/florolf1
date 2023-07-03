@@ -1,9 +1,12 @@
 # Hi there, I’m Florian 👋
 
-<!-- [![LinkedIn Badge](https://img.shields.io/badge/Personal%20Website-%20-lightgrey?color=1CA2F1)](https://www.toniwahrstaetter.com) -->
+[![LinkedIn Badge](https://img.shields.io/badge/Personal%20Website-%20-lightgrey?color=1CA2F1)](https://www.florianwinter.com)
 
 a German developer who loves tech and innovation.
 I'm interested in utilizing my analytical and problem-solving skills by designing and implementing decentralized applications (dApps).
+
+[Website](https://www.florianwinter.com) : <br/>
+https://florianwinter.com
 
 ---
 
@@ -26,15 +29,18 @@ I'm interested in utilizing my analytical and problem-solving skills by designin
   - <a href="https://prisma.farm">Landing Page</a>
   - <a href="https://minter.prisma.farm">NFT Minter</a>
   - <a href="https://app.prisma.farm">DeFi Plattform</a>
+- <a href="https://florianwinter.com/projects/project/prisma">More informations</a>
 
 #### Plattform Development
 
 - BIMForge - Platform for the digitization of building data
   - <a href="https://bim-forge.bimension.de">Plattform</a>
+- <a href="https://florianwinter.com/projects/project/bim-forge">More informations</a>
 
 #### Mobile Development
 
 - ARForge - Augmented Reality App for displaying building data on site (access restriced - contact me for more information)
+- <a href="https://florianwinter.com/projects/project/ar-forge">More informations</a>
 
 ### 🛠 Things I code with:
 
