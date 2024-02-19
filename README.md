@@ -72,10 +72,8 @@ https://florianwinter.com
 
 ---
 
-<p><img  src="https://github-readme-stats.vercel.app/api?username=florolf1&show_icons=true&locale=en&theme=graywhite&include_all_commits=true&count_private=true" alt="nerolation" /></p>
 
 <p><img   src="https://github-readme-stats.vercel.app/api/top-langs?username=florolf1&show_icons=true&locale=en&layout=compact&hide=HTML,jupyter%20notebook" alt="nerolation"  /></p>
 
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=florolf1&" alt="nerolation" /></p>
 
 ---
