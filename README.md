@@ -13,7 +13,7 @@ My focus is the path in between: from laser scan to BIM model to the software pe
 - **Software for construction** — BIM, scan-to-BIM, AR/VR/XR for the construction site and platforms like [TwinEstate](https://twin-estate.com).
 - **AI for construction and real estate** — AI assistant in TwinEstate, TwinAI at TwinOne AG and AI co-workers built from agent teams.
 - **Crypto and blockchain development** — validator infrastructure, Web3 platforms and interfaces for decentralized exchanges.
-- **iOS apps** — over 100 apps for iPhone and iPad.
+- **iOS apps** — 20 apps for iPhone and iPad since 2016, over 5M App Store downloads.
 
 ## Selected projects
 
@@ -24,10 +24,10 @@ My focus is the path in between: from laser scan to BIM model to the software pe
 | Agents     | [AI co-workers](https://www.florianwinter.com/en/#i-agenten)                  | Teams of specialized AI agents that prepare tasks and check each other against fixed rules. Nothing goes out until a person approves it.       |
 | Surveying  | [3D laser scanning and scan-to-BIM](https://www.florianwinter.com/en/#i-scan) | Over 500 projects, more than 1M m² of floor area, over 250 scan-to-BIM projects.                                                               |
 | 2021–2025  | [AR/VR/XR and digital twin](https://www.florianwinter.com/en/#i-xr)           | The BIM model at full scale on the construction site, on a tablet and in smart glasses — plus laser scans as a walkable digital twin.          |
-| 2023       | [Winthereum](https://winthereum.de)                                           | Concept and development: infrastructure for Ethereum validators.                                                                               |
+| 2023       | [Winthereum](https://www.florianwinter.com/en/#i-winthereum)                  | Concept and development: infrastructure for Ethereum validators.                                                                               |
 | 2022       | [Prisma](https://www.florianwinter.com/en/#i-prisma)                          | One of the winners of the Moralis Avalanche Hackathon: Web3 platform for EVM networks with dashboard, smart contracts, wallet and NFT builder. |
 | 2024       | [StrikeX DEX](https://www.florianwinter.com/en/#i-strikex)                    | Client project: interface of a decentralized exchange with portfolio tracker, market screener and real-time data.                              |
-| since 2016 | [iOS apps](https://www.florianwinter.com/en/#i-ios)                           | Over 100 apps for iPhone and iPad on the App Store, more than 5M downloads.                                                                    |
+| since 2016 | [iOS apps](https://www.florianwinter.com/en/#i-ios)                           | 20 apps for iPhone and iPad, together over 5M App Store downloads.                                                                             |
 
 ## Tools
 
