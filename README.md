@@ -13,7 +13,7 @@ My focus is the path in between: from laser scan to BIM model to the software pe
 - **Software for construction** — BIM, scan-to-BIM, AR/VR/XR for the construction site and platforms like [TwinEstate](https://twin-estate.com).
 - **AI for construction and real estate** — AI assistant in TwinEstate, TwinAI at TwinOne AG and AI co-workers built from agent teams.
 - **Crypto and blockchain development** — validator infrastructure, Web3 platforms and interfaces for decentralized exchanges.
-- **iOS apps** — 20 apps for iPhone and iPad since 2016, over 5M App Store downloads.
+- **iOS apps** — over 100 apps for iPhone and iPad since 2016, over 5M App Store downloads.
 
 ## Selected projects
 
@@ -27,7 +27,7 @@ My focus is the path in between: from laser scan to BIM model to the software pe
 | 2023       | [Winthereum](https://www.florianwinter.com/en/#i-winthereum)                  | Concept and development: infrastructure for Ethereum validators.                                                                               |
 | 2022       | [Prisma](https://www.florianwinter.com/en/#i-prisma)                          | One of the winners of the Moralis Avalanche Hackathon: Web3 platform for EVM networks with dashboard, smart contracts, wallet and NFT builder. |
 | 2024       | [StrikeX DEX](https://www.florianwinter.com/en/#i-strikex)                    | Client project: interface of a decentralized exchange with portfolio tracker, market screener and real-time data.                              |
-| since 2016 | [iOS apps](https://www.florianwinter.com/en/#i-ios)                           | 20 apps for iPhone and iPad, together over 5M App Store downloads.                                                                             |
+| since 2016 | [iOS apps](https://www.florianwinter.com/en/#i-ios)                           | Over 100 apps for iPhone and iPad, more than 5M App Store downloads.                                                                           |
 
 ## Tools
 
